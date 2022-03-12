@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="30">
+      <Unit0>
+        <Filename Value="Saper.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="19" Y="8"/>
+        <UsageCount Value="140"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mainformunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MainForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainFormUnit"/>
+        <TopLine Value="122"/>
+        <CursorPos X="62" Y="84"/>
+        <UsageCount Value="140"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="playingfieldunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="PlayingFieldUnit"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="352"/>
+        <CursorPos X="14" Y="352"/>
+        <FoldState Value=" T3lJ0RY"/>
+        <UsageCount Value="119"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="dtmoduleunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DtModule"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="DtModuleunit"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="11" Y="10"/>
+        <UsageCount Value="67"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="settingunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="SpSettingForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="SettingUnit"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="5"/>
+        <CursorPos X="28" Y="76"/>
+        <UsageCount Value="63"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="gameresultunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GameResultUnit"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="7" Y="23"/>
+        <UsageCount Value="47"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="gameresultformunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="GameResultForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="GameResultFormUnit"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="2" Y="245"/>
+        <UsageCount Value="44"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="/usr/lib/lazarus/2.0.6/lcl/buttons.pp"/>
+        <UnitName Value="Buttons"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="55"/>
+        <CursorPos X="53" Y="115"/>
+        <UsageCount Value="18"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="/usr/lib/lazarus/2.0.6/lcl/include/speedbutton.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="217"/>
+        <UsageCount Value="2"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="/usr/lib/lazarus/2.0.6/lcl/include/control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4453"/>
+        <CursorPos X="43" Y="4480"/>
+        <UsageCount Value="3"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="/usr/share/fpcsrc/3.0.4/rtl/inc/objpash.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="222"/>
+        <CursorPos X="8" Y="189"/>
+        <UsageCount Value="4"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="/usr/lib/lazarus/2.0.6/lcl/include/buttonglyph.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="348"/>
+        <CursorPos X="3" Y="350"/>
+        <UsageCount Value="5"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="/usr/lib/lazarus/2.0.6/lcl/forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="397"/>
+        <CursorPos X="3" Y="416"/>
+        <UsageCount Value="10"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="/usr/lib/lazarus/2.0.6/lcl/controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2362"/>
+        <CursorPos X="3" Y="2396"/>
+        <UsageCount Value="5"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="/usr/lib/lazarus/2.0.6/lcl/lclclasses.pp"/>
+        <UnitName Value="LCLClasses"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="24"/>
+        <CursorPos X="3" Y="42"/>
+        <UsageCount Value="4"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="/usr/share/fpcsrc/3.0.4/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="279"/>
+        <CursorPos X="3" Y="298"/>
+        <UsageCount Value="10"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="/usr/lib/lazarus/2.0.6/lcl/extctrls.pp"/>
+        <UnitName Value="ExtCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="162"/>
+        <CursorPos X="3" Y="192"/>
+        <UsageCount Value="9"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="/usr/lib/lazarus/2.0.6/lcl/include/customcontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="30"/>
+        <CursorPos X="21" Y="40"/>
+        <UsageCount Value="5"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="/usr/lib/lazarus/2.0.6/lcl/customtimer.pas"/>
+        <UnitName Value="CustomTimer"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="21" Y="42"/>
+        <UsageCount Value="9"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="/usr/lib/lazarus/2.0.6/components/lazutils/uitypes.pas"/>
+        <UnitName Value="UITypes"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="38" Y="13"/>
+        <UsageCount Value="10"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="/usr/lib/lazarus/2.0.6/lcl/include/buttoncontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="32"/>
+        <CursorPos Y="50"/>
+        <UsageCount Value="10"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="/usr/share/fpcsrc/3.0.4/rtl/objpas/classes/lists.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="208"/>
+        <CursorPos X="3" Y="214"/>
+        <UsageCount Value="10"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="/lazarus/fpc/3.0.4/source/rtl/inc/systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="780"/>
+        <CursorPos X="14" Y="799"/>
+        <UsageCount Value="10"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="/lazarus/fpc/3.0.4/source/rtl/win/syswin.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="347"/>
+        <CursorPos X="5" Y="349"/>
+        <UsageCount Value="10"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="/lazarus/fpc/3.0.4/source/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="679"/>
+        <CursorPos X="116" Y="681"/>
+        <UsageCount Value="11"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="/lazarus/lcl/propertystorage.pas"/>
+        <UnitName Value="PropertyStorage"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="664"/>
+        <CursorPos Y="684"/>
+        <UsageCount Value="10"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="/lazarus/lcl/xmlpropstorage.pas"/>
+        <UnitName Value="XMLPropStorage"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="106"/>
+        <CursorPos Y="128"/>
+        <UsageCount Value="10"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="/lazarus/fpc/3.0.4/source/packages/fcl-base/src/inifiles.pp"/>
+        <UnitName Value="IniFiles"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="/usr/lib/lazarus/2.0.6/lcl/dialogs.pp"/>
+        <UnitName Value="Dialogs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="746"/>
+        <CursorPos X="10" Y="762"/>
+        <UsageCount Value="10"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="/usr/lib/lazarus/2.0.6/lcl/include/messagedialogs.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="317"/>
+        <CursorPos X="20" Y="335"/>
+        <UsageCount Value="10"/>
+      </Unit29>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="177" TopLine="154"/>
+      </Position1>
+      <Position2>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="178" TopLine="154"/>
+      </Position2>
+      <Position3>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="180" TopLine="154"/>
+      </Position3>
+      <Position4>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="182" TopLine="154"/>
+      </Position4>
+      <Position5>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="186" TopLine="157"/>
+      </Position5>
+      <Position6>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="172" TopLine="157"/>
+      </Position6>
+      <Position7>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="177" TopLine="157"/>
+      </Position7>
+      <Position8>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="178" TopLine="157"/>
+      </Position8>
+      <Position9>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="180" TopLine="157"/>
+      </Position9>
+      <Position10>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="182" TopLine="157"/>
+      </Position10>
+      <Position11>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="172" TopLine="157"/>
+      </Position11>
+      <Position12>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="177" TopLine="157"/>
+      </Position12>
+      <Position13>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="178" TopLine="157"/>
+      </Position13>
+      <Position14>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="180" TopLine="157"/>
+      </Position14>
+      <Position15>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="182" TopLine="157"/>
+      </Position15>
+      <Position16>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="177" TopLine="157"/>
+      </Position16>
+      <Position17>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="178" TopLine="157"/>
+      </Position17>
+      <Position18>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="180" TopLine="157"/>
+      </Position18>
+      <Position19>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="182" TopLine="157"/>
+      </Position19>
+      <Position20>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="186" TopLine="157"/>
+      </Position20>
+      <Position21>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="177" TopLine="157"/>
+      </Position21>
+      <Position22>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="178" TopLine="157"/>
+      </Position22>
+      <Position23>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="180" TopLine="157"/>
+      </Position23>
+      <Position24>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="177" TopLine="157"/>
+      </Position24>
+      <Position25>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="489" Column="4" TopLine="464"/>
+      </Position25>
+      <Position26>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="398" Column="3" TopLine="380"/>
+      </Position26>
+      <Position27>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="329" Column="3" TopLine="311"/>
+      </Position27>
+      <Position28>
+        <Filename Value="playingfieldunit.pas"/>
+        <Caret Line="168" Column="3" TopLine="150"/>
+      </Position28>
+      <Position29>
+        <Filename Value="mainformunit.pas"/>
+        <Caret Line="123" Column="3" TopLine="117"/>
+      </Position29>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
