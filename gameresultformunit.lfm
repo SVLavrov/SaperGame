@@ -1,0 +1,26 @@
+object GameResultForm: TGameResultForm
+  Left = 391
+  Height = 240
+  Top = 129
+  Width = 268
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsDialog
+  Caption = 'Лучшее время'
+  ClientHeight = 240
+  ClientWidth = 268
+  Position = poMainFormCenter
+  LCLVersion = '2.0.6.0'
+  object Memo: TMemo
+    Left = 0
+    Height = 240
+    Top = 0
+    Width = 268
+    Align = alClient
+    Lines.Strings = (
+      ' Поле  | Бомб | Время | Игрок'
+    )
+    ReadOnly = True
+    TabOrder = 0
+    TabStop = False
+  end
+end
